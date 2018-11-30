@@ -1,0 +1,3 @@
+﻿  SortAlgs.cpp
+c:\users\компик\source\repos\sortalgs\sortalgs\sortalgs.cpp(76): warning C4101: buf: неиспользованная локальная переменная
+  SortAlgs.vcxproj -> C:\Users\Компик\source\repos\SortAlgs\Debug\SortAlgs.exe
