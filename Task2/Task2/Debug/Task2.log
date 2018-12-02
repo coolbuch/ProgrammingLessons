@@ -1,0 +1,6 @@
+﻿  Task2.cpp
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(133): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(138): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(152): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(170): warning C4101: primesArr: неиспользованная локальная переменная
+  Task2.vcxproj -> C:\Users\kovdi\source\repos\Task2\Debug\Task2.exe
