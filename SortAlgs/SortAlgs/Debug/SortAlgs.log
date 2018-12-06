@@ -1,5 +1,4 @@
 ﻿  SortAlgs.cpp
-c:\users\kovdi\source\repos\sortalgs\sortalgs\sortalgs.cpp(79): warning C4101: buf: неиспользованная локальная переменная
-c:\users\kovdi\source\repos\sortalgs\sortalgs\sortalgs.cpp(186): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\kovdi\source\repos\sortalgs\sortalgs\sortalgs.cpp(209): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\sortalgs\sortalgs\sortalgs.cpp(88): warning C4101: buf: неиспользованная локальная переменная
+c:\users\kovdi\source\repos\sortalgs\sortalgs\sortalgs.cpp(198): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   SortAlgs.vcxproj -> C:\Users\kovdi\source\repos\SortAlgs\Debug\SortAlgs.exe

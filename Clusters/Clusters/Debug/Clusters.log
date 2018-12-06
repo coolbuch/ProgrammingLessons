@@ -1,5 +1,5 @@
 ﻿  Clusters.cpp
-c:\users\компик\source\repos\clusters\clusters\clusters.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\компик\source\repos\clusters\clusters\clusters.cpp(19): warning C4101: KS: неиспользованная локальная переменная
-c:\users\компик\source\repos\clusters\clusters\clusters.cpp(19): warning C4101: BS: неиспользованная локальная переменная
-  Clusters.vcxproj -> C:\Users\Компик\source\repos\Clusters\Debug\Clusters.exe
+c:\users\kovdi\source\repos\clusters\clusters\clusters.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kovdi\source\repos\clusters\clusters\clusters.cpp(19): warning C4101: KS: неиспользованная локальная переменная
+c:\users\kovdi\source\repos\clusters\clusters\clusters.cpp(19): warning C4101: BS: неиспользованная локальная переменная
+  Clusters.vcxproj -> C:\Users\kovdi\source\repos\Clusters\Debug\Clusters.exe
