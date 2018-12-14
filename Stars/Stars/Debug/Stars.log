@@ -1,0 +1,4 @@
+﻿  Stars.cpp
+c:\users\kovdi\source\repos\stars\stars\stars.cpp(68): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kovdi\source\repos\stars\stars\stars.cpp(64): warning C4717: rec: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Stars.vcxproj -> C:\Users\kovdi\source\repos\Stars\Debug\Stars.exe
