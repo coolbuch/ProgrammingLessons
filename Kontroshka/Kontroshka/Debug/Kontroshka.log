@@ -1,2 +1,3 @@
 ﻿  Kontroshka.cpp
-  Kontroshka.vcxproj -> C:\Users\Компик\source\repos\Kontroshka\Debug\Kontroshka.exe
+c:\users\kovdi\source\repos\kontroshka\kontroshka\kontroshka.cpp(120): warning C4101: st2: неиспользованная локальная переменная
+  Kontroshka.vcxproj -> C:\Users\kovdi\source\repos\Kontroshka\Debug\Kontroshka.exe
