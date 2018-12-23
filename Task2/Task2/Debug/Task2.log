@@ -1,7 +1,7 @@
 ﻿  Task2.cpp
-c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(163): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(166): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(178): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(194): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(210): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Task2.vcxproj -> C:\Users\Компик\source\repos\ProgrammingLessons\Task2\Debug\Task2.exe
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(163): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(166): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(178): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(194): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kovdi\source\repos\task2\task2\task2.cpp(210): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task2.vcxproj -> C:\Users\kovdi\source\repos\Task2\Debug\Task2.exe
