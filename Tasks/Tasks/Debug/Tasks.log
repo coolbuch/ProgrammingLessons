@@ -1,0 +1,6 @@
+﻿  Tasks.cpp
+c:\users\kovdi\source\repos\tasks\tasks\tasks.cpp(25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\tasks\tasks\tasks.cpp(26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\tasks\tasks\tasks.cpp(37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\kovdi\source\repos\tasks\tasks\tasks.cpp(38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Tasks.vcxproj -> C:\Users\kovdi\source\repos\Tasks\Debug\Tasks.exe
